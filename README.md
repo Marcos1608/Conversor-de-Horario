@@ -83,9 +83,9 @@ Formato Americano (12h): 06:30:45 PM
 # 🚀 Como Executar
 
 Clone o repositório:
-
+```
 git clone <url-do-repositorio>
-
+```
 
 Abra o projeto em sua IDE (Eclipse, IntelliJ ou VS Code)
 
